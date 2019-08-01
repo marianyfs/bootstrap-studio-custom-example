@@ -5,7 +5,9 @@
 ### Clone or Download the repository
      $ git clone https://github.com/MarianyFerreira/bootstrap-studio-custom-example.git
 
-### SASS compiler with Bootstrap Studio. Follow: https://bootstrapstudio.io/tutorials/writing-sass
+### Setting up SASS editing.
+
+Follow: https://bootstrapstudio.io/tutorials/writing-sass
 
 To keep file size low, we don't bundle a SASS compiler with Bootstrap Studio. Instead, we provide an easy to install utility that works together with the app to compile your SASS code. It is called bstudio-sass and supports Windows, macOS and Linux.
 
