@@ -1,1 +1,1 @@
-# bootstrap-studio-customization-project-example
+# bootstrap-studio-custom-example
