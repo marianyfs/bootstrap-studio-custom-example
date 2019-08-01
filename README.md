@@ -19,3 +19,5 @@ To keep file size low, we don't bundle a SASS compiler with Bootstrap Studio. In
  ### Load Project
  
  #### File > Open > customize-bootstrap-using-sass.bsdesign
+
+![BSS Project Image](https://github.com/MarianyFerreira/bootstrap-studio-custom-example/blob/master/Capturar.PNG)
