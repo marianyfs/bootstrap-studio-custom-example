@@ -25,3 +25,6 @@ To keep file size low, we don't bundle a SASS compiler with Bootstrap Studio. In
 
 Thanks for the support
 Twinstream - Boostrap Studio Forum Member
+
+Issue
+![How to overwrite default color SASS/SCSS variables?](https://bootstrapstudio.io/forums/topic/how-to-overwrite-default-color-sass-variables/)
